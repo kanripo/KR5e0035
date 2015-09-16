@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:07:11.697025
+# -*- mode: mandoku-view -*-
 #+TITLE: 上方靈寶無極至道開化真經
-#+PROPERTY: DZID  DZ1133
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，24—891 三卷 太平部
+#+DATE: 2015-08-29 02:07:12
+#+PROPERTY:  LASTPB <PB KR5e0035_SJB_003-240904b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶
+
